@@ -1,3 +1,13 @@
+/**
+ *	gpu_opencl.h
+ *
+ *	Copyright (c) 2014, Long(Ryan) Nangong.
+ *	All right reserved.
+ *
+ *      Email: lnangong@hawk.iit.edu
+ */
+
+
 #ifndef _GPU_H_
 #define _GPU_H_
 

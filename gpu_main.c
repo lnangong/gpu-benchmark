@@ -3,9 +3,11 @@
 	--Test GPU speed in terms of floating point operations 
 	per second and integer operations per second, GPU memory
 	bandwidth (Host to device, device to host, device to devie)
-
-	Author: Long Nangong <lnangong@hawk.iit.edu>
-	Date: September 23, 2014
+	
+	Copyright (c) 2014, Long(Ryan) Nangong.
+ 	All right reserved.
+ 
+ 	Email: lnangong@hawk.iit.edu
 ***********************************************************/
 
 #include <stdio.h>

@@ -1,3 +1,12 @@
+/**
+ * 	gpu_kernel.cl
+ *
+ *	Copyright (c) 2014, Long(Ryan) Nangong.
+ *	All right reserved.
+ *
+ *      Email: lnangong@hawk.iit.edu
+ */
+
 
 #define ITERATION 100000
 
